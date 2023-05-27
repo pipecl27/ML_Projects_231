@@ -9,10 +9,10 @@ Use esta plantilla para almacenar todos los códigos y material relacionado al p
 
 
 **🗣️ Contact:** Ruben D. Fonnegra \
-**✉️ Email:** ruben.fonnegra@pascualbravo.edu.co
+**✉️ Email:** ruben.fonnegra@pascualbravo.edu.co\
 Proyecto Acciones Google
 
-Integrantes:
-Andres Felipe Cardenas Lujan
-Denisse Alvarez Grisalez
-Michelle Tatiana Olayo Perez
+Integrantes:\
+Andres Felipe Cardenas Lujan\
+Denisse Alvarez Grisalez\
+Michelle Tatiana Olayo Perez\
